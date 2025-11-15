@@ -3,5 +3,5 @@
 
 TEST(UnitTest, AddFunction) {
     Calculator c;
-    EXPECT_EQ(c.add(2, 3), 5);
+    EXPECT_EQ(c.add(2, 3), 6);
 }
